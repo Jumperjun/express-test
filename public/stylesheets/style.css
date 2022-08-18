@@ -1,0 +1,34 @@
+.container {
+  width: 100%;
+
+}
+
+.home {
+  margin-right: 70%;
+  margin-top: 15px;
+
+}
+
+.about {
+  margin: 15px 15px 0 0;
+  color:black;
+}
+
+.portfolio {
+  margin: 15px 15px 0 0;
+  color: black;
+}
+
+.contact {
+  margin: 15px 15px 0 0;
+  color: black;
+}
+
+a{
+  color: black;
+  border:1px solid grey;
+  border-radius:5px;
+  padding:5px;
+  background:grey;
+  text-decoration:none;
+}
